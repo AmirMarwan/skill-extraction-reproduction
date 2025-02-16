@@ -77,6 +77,6 @@ If you want to provide your own expert data for a different conversational skill
 
 # 3rd party licence and copyright
 
-Please refer to `3rdparty/` for more information about all the licences of the different open source softwares used to build this program.
+The code in this repository is under MIT license. However, please refer to `3rdparty/` for more information about all the licences of the different open source softwares used to build this program.
 
 If you feel like your module/library/code has been used without proper license or creditation please raise an issue or a pull request and I will make sure to include the changes required.
